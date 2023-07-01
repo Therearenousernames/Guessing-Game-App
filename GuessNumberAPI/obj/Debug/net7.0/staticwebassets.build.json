@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "02zp6w2WFvAElxwImnFT2oymGxQ6lEqWFYvTZSDp5gc=",
+  "Source": "GuessNumberAPI",
+  "BasePath": "_content/GuessNumberAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
